@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-02T20:20:45 IST" name="Suite" finished-at="2024-01-02T20:21:01 IST" duration-ms="15664">
+    <groups>
+    </groups>
+    <test started-at="2024-01-02T20:20:45 IST" name="Test" finished-at="2024-01-02T20:21:01 IST" duration-ms="15664">
+      <class name="com.vk.sdetbasic.SeleniumJavaAssignment">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.vk.sdetbasic.SeleniumJavaAssignment@351d00c0]" started-at="2024-01-02T20:20:45 IST" name="beforeTest" finished-at="2024-01-02T20:20:50 IST" duration-ms="4843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="ps3()[pri:0, instance:com.vk.sdetbasic.SeleniumJavaAssignment@351d00c0]" started-at="2024-01-02T20:20:50 IST" name="ps3" finished-at="2024-01-02T20:20:50 IST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ps3 -->
+        <test-method signature="ps4()[pri:0, instance:com.vk.sdetbasic.SeleniumJavaAssignment@351d00c0]" started-at="2024-01-02T20:20:50 IST" name="ps4" finished-at="2024-01-02T20:21:00 IST" duration-ms="9635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ps4 -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.vk.sdetbasic.SeleniumJavaAssignment@351d00c0]" started-at="2024-01-02T20:21:00 IST" name="afterTest" finished-at="2024-01-02T20:21:01 IST" duration-ms="995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.vk.sdetbasic.SeleniumJavaAssignment -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
